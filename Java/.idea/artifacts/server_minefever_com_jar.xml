@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="server.minefever.com:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/server_minefever_com_jar</output-path>
+    <root id="archive" name="server.minefever.com.jar">
+      <element id="module-output" name="server.minefever.com" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../craftbukkit.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
