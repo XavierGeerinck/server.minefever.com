@@ -1,5 +1,6 @@
 package com.minefever;
 
+import com.minefever.events.OnUserLogin;
 import com.minefever.handlers.MysqlHandler;
 import org.bukkit.plugin.java.JavaPlugin;
 
@@ -16,8 +17,21 @@ public final class Main extends JavaPlugin {
     @Override
     public void onEnable() {
         getLogger().info("Connecting to the database");
+        connectToDatabase();
+        getLogger().info("Connected to the database.");
+
+        getLogger().info("Registering Handlers.");
+        registerHandlers();
+        getLogger().info("Registered Handlers.");
+    }
+
+    private void connectToDatabase() {
         mysql = new MysqlHandler();
         mysql.connect("localhost", 3306, "minefever", "root", "");
+    }
+
+    private void registerHandlers() {
+        getServer().getPluginManager().registerEvents(new OnUserLogin(), this);
     }
 
     @Override

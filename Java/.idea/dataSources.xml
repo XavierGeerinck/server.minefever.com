@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="650513388">
+    <data-source source="LOCAL" name="Data Source" product="MySQL" version="5.5.32-0ubuntu0.12.04.1-log" jdbc-version="4.0" driver-name="MySQL Connector Java" driver-version="mysql-connector-java-5.1.26 ( Revision: ${bzr.revision-id} )" uuid="d03d875e-4d6b-470a-a809-ee09042b0f2e">
+      <extra-name-characters>#@</extra-name-characters>
+      <identifier-quote-string>`</identifier-quote-string>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://server.minefever.com:3306/minefever</jdbc-url>
+      <user-name>xavier</user-name>
+      <user-password>dfcedfcbdfd8dfc1dfccdfc3dfd8dfcfdf9bdf9edf9bdf9adf93df99</user-password>
+      <schema-pattern>minefever.*</schema-pattern>
+      <default-schemas>minefever.*</default-schemas>
+      <libraries>
+        <library>
+          <url>jar://$PROJECT_DIR$/lib/mysql-connector-java-5.1.26-bin.jar!/</url>
+        </library>
+        <library>
+          <url>file://$PROJECT_DIR$/lib/mysql-connector-license.txt</url>
+        </library>
+      </libraries>
+    </data-source>
+  </component>
+</project>
+

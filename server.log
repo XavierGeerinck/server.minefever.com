@@ -1,0 +1,461 @@
+2013-09-16 15:47:51 [INFO] Starting minecraft server version 1.6.2
+2013-09-16 15:47:51 [INFO] Loading properties
+2013-09-16 15:47:51 [WARNING] server.properties does not exist
+2013-09-16 15:47:51 [INFO] Generating new properties file
+2013-09-16 15:47:52 [INFO] Default game type: SURVIVAL
+2013-09-16 15:47:52 [INFO] Generating keypair
+2013-09-16 15:47:52 [INFO] Starting Minecraft server on *:25565
+2013-09-16 15:47:52 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.2-R1.0-b2879jnks (MC: 1.6.2) (Implementing API version 1.6.2-R1.0)
+2013-09-16 15:47:53 [WARNING] Failed to load operators list: java.io.FileNotFoundException: ./ops.txt (No such file or directory)
+2013-09-16 15:47:53 [WARNING] Failed to load white-list: java.io.FileNotFoundException: ./white-list.txt (No such file or directory)
+2013-09-16 15:47:53 [INFO] Preparing level "world"
+2013-09-16 15:47:53 [INFO] Preparing start region for level 0 (Seed: -5669663795959418212)
+2013-09-16 15:47:54 [INFO] Preparing spawn area: 11%
+2013-09-16 15:47:55 [INFO] Preparing spawn area: 24%
+2013-09-16 15:47:56 [INFO] Preparing spawn area: 36%
+2013-09-16 15:47:57 [INFO] Preparing spawn area: 50%
+2013-09-16 15:47:58 [INFO] Preparing spawn area: 62%
+2013-09-16 15:47:59 [INFO] Preparing spawn area: 75%
+2013-09-16 15:48:00 [INFO] Preparing spawn area: 87%
+2013-09-16 15:48:01 [INFO] Preparing spawn area: 99%
+2013-09-16 15:48:01 [INFO] Preparing start region for level 1 (Seed: -5669663795959418212)
+2013-09-16 15:48:02 [INFO] Preparing spawn area: 19%
+2013-09-16 15:48:03 [INFO] Preparing spawn area: 37%
+2013-09-16 15:48:04 [INFO] Preparing spawn area: 56%
+2013-09-16 15:48:05 [INFO] Preparing spawn area: 75%
+2013-09-16 15:48:06 [INFO] Preparing spawn area: 85%
+2013-09-16 15:48:07 [INFO] Preparing spawn area: 97%
+2013-09-16 15:48:08 [INFO] Preparing start region for level 2 (Seed: -5669663795959418212)
+2013-09-16 15:48:09 [INFO] Preparing spawn area: 52%
+2013-09-16 15:48:09 [INFO] Done (16.839s)! For help, type "help" or "?"
+2013-09-16 15:48:45 [INFO] Unknown command. Type "help" for help.[m
+2013-09-16 15:48:47 [INFO] Unknown command. Type "help" for help.[m
+2013-09-16 15:48:47 [INFO] Unknown command. Type "help" for help.[m
+2013-09-16 15:48:48 [INFO] [0;33;1m--------- [0;37;1mHelp: Index [0;33;1m---------------------------[m
+2013-09-16 15:48:48 [INFO] [0;37;22mUse /help [n] to get page n of help.[m
+2013-09-16 15:48:48 [INFO] [0;33;22mAliases: [0;37;1mLists command aliases[m
+2013-09-16 15:48:48 [INFO] [0;33;22mBukkit: [0;37;1mAll commands for Bukkit[m
+2013-09-16 15:48:48 [INFO] [0;33;22m/ban: [0;37;1mPrevents the specified player from using this server[m
+2013-09-16 15:48:48 [INFO] [0;33;22m/ban-ip: [0;37;1mPrevents the specified IP address from using this server[m
+2013-09-16 15:48:48 [INFO] [0;33;22m/banlist: [0;37;1mView all players banned from this server[m
+2013-09-16 15:48:48 [INFO] [0;33;22m/clear: [0;37;1mClears the player's inventory. Can specify item and data filters too.[m
+2013-09-16 15:48:48 [INFO] [0;33;22m/defaultgamemode: [0;37;1mSet the default gamemode[m
+2013-09-16 15:48:48 [INFO] [0;33;22m/deop: [0;37;1mTakes the specified player's operator status[m
+2013-09-16 15:48:48 [INFO] [0;33;22m/difficulty: [0;37;1mSets the game difficulty[m
+2013-09-16 15:48:48 [INFO] [0;33;22m/effect: [0;37;1mAdds/Removes effects on players[m
+2013-09-16 15:48:48 [INFO] [0;33;22m/enchant: [0;37;1mAdds enchantments to the item the player is currently holding. Specify 0 for the level to remove an enchantment. Specify force to ignore normal enchantment restrictions[m
+2013-09-16 15:48:48 [INFO] [0;33;22m/gamemode: [0;37;1mChanges the player to a specific game mode[m
+2013-09-16 15:48:48 [INFO] [0;33;22m/gamerule: [0;37;1mSets a server's game rules[m
+2013-09-16 15:48:48 [INFO] [0;33;22m/give: [0;37;1mGives the specified player a certain amount of items[m
+2013-09-16 15:48:48 [INFO] [0;33;22m/help: [0;37;1mShows the help menu[m
+2013-09-16 15:48:48 [INFO] [0;33;22m/kick: [0;37;1mRemoves the specified player from the server[m
+2013-09-16 15:48:48 [INFO] [0;33;22m/kill: [0;37;1mCommits suicide, only usable as a player[m
+2013-09-16 15:48:48 [INFO] [0;33;22m/list: [0;37;1mLists all online players[m
+2013-09-16 15:48:48 [INFO] [0;33;22m/me: [0;37;1mPerforms the specified action in chat[m
+2013-09-16 15:48:48 [INFO] [0;33;22m/op: [0;37;1mGives the specified player operator status[m
+2013-09-16 15:48:48 [INFO] [0;33;22m/pardon: [0;37;1mAllows the specified player to use this server[m
+2013-09-16 15:48:48 [INFO] [0;33;22m/pardon-ip: [0;37;1mAllows the specified IP address to use this server[m
+2013-09-16 15:48:48 [INFO] [0;33;22m/playsound: [0;37;1mPlays a sound to a given player[m
+2013-09-16 15:48:48 [INFO] [0;33;22m/plugins: [0;37;1mGets a list of plugins running on the server[m
+2013-09-16 15:48:48 [INFO] [0;33;22m/reload: [0;37;1mReloads the server configuration and plugins[m
+2013-09-16 15:48:48 [INFO] [0;33;22m/save-all: [0;37;1mSaves the server to disk[m
+2013-09-16 15:48:48 [INFO] [0;33;22m/save-off: [0;37;1mDisables server autosaving[m
+2013-09-16 15:48:48 [INFO] [0;33;22m/save-on: [0;37;1mEnables server autosaving[m
+2013-09-16 15:48:48 [INFO] [0;33;22m/say: [0;37;1mBroadcasts the given message as the console[m
+2013-09-16 15:48:48 [INFO] [0;33;22m/scoreboard: [0;37;1mScoreboard control[m
+2013-09-16 15:48:48 [INFO] [0;33;22m/seed: [0;37;1mShows the world seed[m
+2013-09-16 15:48:48 [INFO] [0;33;22m/spawnpoint: [0;37;1mSets a player's spawn point[m
+2013-09-16 15:48:49 [INFO] [0;33;22m/spreadplayers: [0;37;1mSpreads players around a point[m
+2013-09-16 15:48:49 [INFO] [0;33;22m/stop: [0;37;1mStops the server with optional reason[m
+2013-09-16 15:48:49 [INFO] [0;33;22m/tell: [0;37;1mSends a private message to the given player[m
+2013-09-16 15:48:49 [INFO] [0;33;22m/testfor: [0;37;1mTests whether a specifed player is online[m
+2013-09-16 15:48:49 [INFO] [0;33;22m/time: [0;37;1mChanges the time on each world[m
+2013-09-16 15:48:49 [INFO] [0;33;22m/timings: [0;37;1mRecords timings for all plugin events[m
+2013-09-16 15:48:49 [INFO] [0;33;22m/toggledownfall: [0;37;1mToggles rain on/off on a given world[m
+2013-09-16 15:48:49 [INFO] [0;33;22m/tp: [0;37;1mTeleports the given player (or yourself) to another player or coordinates[m
+2013-09-16 15:48:49 [INFO] [0;33;22m/version: [0;37;1mGets the version of this server including any plugins in use[m
+2013-09-16 15:48:49 [INFO] [0;33;22m/weather: [0;37;1mChanges the weather[m
+2013-09-16 15:48:49 [INFO] [0;33;22m/whitelist: [0;37;1mManages the list of players allowed to use this server[m
+2013-09-16 15:48:49 [INFO] [0;33;22m/xp: [0;37;1mGives the specified player a certain amount of experience. Specify <amount>L to give levels instead, with a negative amount resulting in taking levels.[m
+2013-09-16 15:48:50 [INFO] Unknown command. Type "help" for help.[m
+2013-09-16 15:48:53 [INFO] Unknown command. Type "help" for help.[m
+2013-09-16 15:48:59 [INFO] Starting minecraft server version 1.6.2
+2013-09-16 15:48:59 [INFO] Loading properties
+2013-09-16 15:48:59 [INFO] Default game type: SURVIVAL
+2013-09-16 15:48:59 [INFO] Generating keypair
+2013-09-16 15:48:59 [INFO] Starting Minecraft server on *:25565
+2013-09-16 15:49:00 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.2-R1.0-b2879jnks (MC: 1.6.2) (Implementing API version 1.6.2-R1.0)
+2013-09-16 15:49:00 [SEVERE] Could not load 'plugins/server.minefever.com.jar' in folder 'plugins'
+org.bukkit.plugin.InvalidDescriptionException: Invalid plugin.yml
+	at org.bukkit.plugin.java.JavaPluginLoader.getPluginDescription(JavaPluginLoader.java:247)
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:132)
+	at org.bukkit.craftbukkit.v1_6_R2.CraftServer.loadPlugins(CraftServer.java:239)
+	at org.bukkit.craftbukkit.v1_6_R2.CraftServer.<init>(CraftServer.java:217)
+	at net.minecraft.server.v1_6_R2.PlayerList.<init>(PlayerList.java:56)
+	at net.minecraft.server.v1_6_R2.DedicatedPlayerList.<init>(SourceFile:11)
+	at net.minecraft.server.v1_6_R2.DedicatedServer.init(DedicatedServer.java:106)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.run(MinecraftServer.java:391)
+	at net.minecraft.server.v1_6_R2.ThreadServerApplication.run(SourceFile:582)
+Caused by: java.io.FileNotFoundException: Jar does not contain plugin.yml
+	... 9 more
+2013-09-16 15:49:00 [INFO] Preparing level "world"
+2013-09-16 15:49:00 [INFO] Preparing start region for level 0 (Seed: -5669663795959418212)
+2013-09-16 15:49:01 [INFO] Preparing start region for level 1 (Seed: -5669663795959418212)
+2013-09-16 15:49:01 [INFO] Preparing start region for level 2 (Seed: -5669663795959418212)
+2013-09-16 15:49:02 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2013-09-16 15:49:02 [INFO] Done (1.908s)! For help, type "help" or "?"
+2013-09-16 15:50:09 [INFO] Starting minecraft server version 1.6.2
+2013-09-16 15:50:09 [INFO] Loading properties
+2013-09-16 15:50:09 [INFO] Default game type: SURVIVAL
+2013-09-16 15:50:09 [INFO] Generating keypair
+2013-09-16 15:50:09 [INFO] Starting Minecraft server on *:25565
+2013-09-16 15:50:09 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.2-R1.0-b2879jnks (MC: 1.6.2) (Implementing API version 1.6.2-R1.0)
+2013-09-16 15:50:09 [INFO] [Minefever] Loading Minefever v1.0.0
+2013-09-16 15:50:10 [INFO] Preparing level "world"
+2013-09-16 15:50:10 [INFO] Preparing start region for level 0 (Seed: -5669663795959418212)
+2013-09-16 15:50:11 [INFO] Preparing start region for level 1 (Seed: -5669663795959418212)
+2013-09-16 15:50:11 [INFO] Preparing start region for level 2 (Seed: -5669663795959418212)
+2013-09-16 15:50:11 [INFO] [Minefever] Enabling Minefever v1.0.0
+2013-09-16 15:50:11 [INFO] [Minefever] Connecting to the database
+2013-09-16 15:50:12 [INFO] com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown database 'minefever'
+2013-09-16 15:50:12 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2013-09-16 15:50:12 [INFO] Done (2.127s)! For help, type "help" or "?"
+2013-09-16 15:52:56 [INFO] Starting minecraft server version 1.6.2
+2013-09-16 15:52:56 [INFO] Loading properties
+2013-09-16 15:52:56 [INFO] Default game type: SURVIVAL
+2013-09-16 15:52:56 [INFO] Generating keypair
+2013-09-16 15:52:56 [INFO] Starting Minecraft server on *:25565
+2013-09-16 15:52:56 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.2-R1.0-b2879jnks (MC: 1.6.2) (Implementing API version 1.6.2-R1.0)
+2013-09-16 15:52:56 [INFO] [Minefever] Loading Minefever v1.0.0
+2013-09-16 15:52:56 [INFO] Preparing level "world"
+2013-09-16 15:52:57 [INFO] Preparing start region for level 0 (Seed: -5669663795959418212)
+2013-09-16 15:52:57 [INFO] Preparing start region for level 1 (Seed: -5669663795959418212)
+2013-09-16 15:52:58 [INFO] Preparing start region for level 2 (Seed: -5669663795959418212)
+2013-09-16 15:52:58 [INFO] [Minefever] Enabling Minefever v1.0.0
+2013-09-16 15:52:58 [INFO] [Minefever] Connecting to the database
+2013-09-16 15:52:59 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2013-09-16 15:52:59 [INFO] Done (2.168s)! For help, type "help" or "?"
+2013-09-16 18:01:15 [INFO] Starting minecraft server version 1.6.2
+2013-09-16 18:01:15 [INFO] Loading properties
+2013-09-16 18:01:15 [INFO] Default game type: SURVIVAL
+2013-09-16 18:01:15 [INFO] Generating keypair
+2013-09-16 18:01:16 [INFO] Starting Minecraft server on *:25565
+2013-09-16 18:01:16 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.2-R1.0-b2879jnks (MC: 1.6.2) (Implementing API version 1.6.2-R1.0)
+2013-09-16 18:01:16 [INFO] [Minefever] Loading Minefever v1.0.0
+2013-09-16 18:01:16 [INFO] Preparing level "world"
+2013-09-16 18:01:16 [INFO] Preparing start region for level 0 (Seed: -5669663795959418212)
+2013-09-16 18:01:17 [INFO] Preparing spawn area: 90%
+2013-09-16 18:01:17 [INFO] Preparing start region for level 1 (Seed: -5669663795959418212)
+2013-09-16 18:01:18 [INFO] Preparing start region for level 2 (Seed: -5669663795959418212)
+2013-09-16 18:01:18 [INFO] [Minefever] Enabling Minefever v1.0.0
+2013-09-16 18:01:18 [INFO] [Minefever] Connecting to the database
+2013-09-16 18:01:18 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2013-09-16 18:01:18 [INFO] Done (2.302s)! For help, type "help" or "?"
+2013-09-16 18:01:41 [INFO] Starting minecraft server version 1.6.2
+2013-09-16 18:01:41 [INFO] Loading properties
+2013-09-16 18:01:41 [INFO] Default game type: SURVIVAL
+2013-09-16 18:01:41 [INFO] Generating keypair
+2013-09-16 18:01:42 [INFO] Starting Minecraft server on *:25565
+2013-09-16 18:01:42 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.2-R1.0-b2879jnks (MC: 1.6.2) (Implementing API version 1.6.2-R1.0)
+2013-09-16 18:01:42 [INFO] [Minefever] Loading Minefever v1.0.0
+2013-09-16 18:01:42 [INFO] Preparing level "world"
+2013-09-16 18:01:42 [INFO] Preparing start region for level 0 (Seed: -5669663795959418212)
+2013-09-16 18:01:43 [INFO] Preparing start region for level 1 (Seed: -5669663795959418212)
+2013-09-16 18:01:44 [INFO] Preparing start region for level 2 (Seed: -5669663795959418212)
+2013-09-16 18:01:44 [INFO] [Minefever] Enabling Minefever v1.0.0
+2013-09-16 18:01:44 [INFO] [Minefever] Connecting to the database
+2013-09-16 18:01:44 [SEVERE] Error occurred while enabling Minefever v1.0.0 (Is it up to date?)
+javax.persistence.PersistenceException: No Persistence provider for EntityManager named minefever-em
+	at javax.persistence.Persistence.createEntityManagerFactory(Persistence.java:89)
+	at javax.persistence.Persistence.createEntityManagerFactory(Persistence.java:60)
+	at com.minefever.Main.onEnable(Main.java:27)
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:217)
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:457)
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:381)
+	at org.bukkit.craftbukkit.v1_6_R2.CraftServer.loadPlugin(CraftServer.java:282)
+	at org.bukkit.craftbukkit.v1_6_R2.CraftServer.enablePlugins(CraftServer.java:264)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.l(MinecraftServer.java:313)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.f(MinecraftServer.java:290)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.a(MinecraftServer.java:250)
+	at net.minecraft.server.v1_6_R2.DedicatedServer.init(DedicatedServer.java:151)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.run(MinecraftServer.java:391)
+	at net.minecraft.server.v1_6_R2.ThreadServerApplication.run(SourceFile:582)
+2013-09-16 18:01:44 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2013-09-16 18:01:44 [INFO] Done (2.149s)! For help, type "help" or "?"
+2013-09-16 18:05:01 [INFO] Starting minecraft server version 1.6.2
+2013-09-16 18:05:01 [INFO] Loading properties
+2013-09-16 18:05:01 [INFO] Default game type: SURVIVAL
+2013-09-16 18:05:01 [INFO] Generating keypair
+2013-09-16 18:05:01 [INFO] Starting Minecraft server on *:25565
+2013-09-16 18:05:01 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.2-R1.0-b2879jnks (MC: 1.6.2) (Implementing API version 1.6.2-R1.0)
+2013-09-16 18:05:01 [INFO] [Minefever] Loading Minefever v1.0.0
+2013-09-16 18:05:01 [INFO] Preparing level "world"
+2013-09-16 18:05:02 [INFO] Preparing start region for level 0 (Seed: -5669663795959418212)
+2013-09-16 18:05:03 [INFO] Preparing spawn area: 89%
+2013-09-16 18:05:03 [INFO] Preparing start region for level 1 (Seed: -5669663795959418212)
+2013-09-16 18:05:03 [INFO] Preparing start region for level 2 (Seed: -5669663795959418212)
+2013-09-16 18:05:04 [INFO] [Minefever] Enabling Minefever v1.0.0
+2013-09-16 18:05:04 [INFO] [Minefever] Connecting to the database
+2013-09-16 18:05:04 [SEVERE] Error occurred while enabling Minefever v1.0.0 (Is it up to date?)
+javax.persistence.PersistenceException: No Persistence provider for EntityManager named minefever-em
+	at javax.persistence.Persistence.createEntityManagerFactory(Persistence.java:89)
+	at javax.persistence.Persistence.createEntityManagerFactory(Persistence.java:60)
+	at com.minefever.Main.onEnable(Main.java:27)
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:217)
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:457)
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:381)
+	at org.bukkit.craftbukkit.v1_6_R2.CraftServer.loadPlugin(CraftServer.java:282)
+	at org.bukkit.craftbukkit.v1_6_R2.CraftServer.enablePlugins(CraftServer.java:264)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.l(MinecraftServer.java:313)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.f(MinecraftServer.java:290)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.a(MinecraftServer.java:250)
+	at net.minecraft.server.v1_6_R2.DedicatedServer.init(DedicatedServer.java:151)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.run(MinecraftServer.java:391)
+	at net.minecraft.server.v1_6_R2.ThreadServerApplication.run(SourceFile:582)
+2013-09-16 18:05:04 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2013-09-16 18:05:04 [INFO] Done (2.403s)! For help, type "help" or "?"
+2013-09-16 18:05:46 [INFO] Starting minecraft server version 1.6.2
+2013-09-16 18:05:46 [INFO] Loading properties
+2013-09-16 18:05:46 [INFO] Default game type: SURVIVAL
+2013-09-16 18:05:46 [INFO] Generating keypair
+2013-09-16 18:05:46 [INFO] Starting Minecraft server on *:25565
+2013-09-16 18:05:46 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.2-R1.0-b2879jnks (MC: 1.6.2) (Implementing API version 1.6.2-R1.0)
+2013-09-16 18:05:47 [INFO] [Minefever] Loading Minefever v1.0.0
+2013-09-16 18:05:47 [INFO] Preparing level "world"
+2013-09-16 18:05:47 [INFO] Preparing start region for level 0 (Seed: -5669663795959418212)
+2013-09-16 18:05:48 [INFO] Preparing start region for level 1 (Seed: -5669663795959418212)
+2013-09-16 18:05:48 [INFO] Preparing start region for level 2 (Seed: -5669663795959418212)
+2013-09-16 18:05:49 [INFO] [Minefever] Enabling Minefever v1.0.0
+2013-09-16 18:05:49 [INFO] [Minefever] Connecting to the database
+2013-09-16 18:05:49 [SEVERE] Error occurred while enabling Minefever v1.0.0 (Is it up to date?)
+javax.persistence.PersistenceException: No Persistence provider for EntityManager named org.hibernate.ejb.HibernatePersistence
+	at javax.persistence.Persistence.createEntityManagerFactory(Persistence.java:89)
+	at javax.persistence.Persistence.createEntityManagerFactory(Persistence.java:60)
+	at com.minefever.Main.onEnable(Main.java:27)
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:217)
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:457)
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:381)
+	at org.bukkit.craftbukkit.v1_6_R2.CraftServer.loadPlugin(CraftServer.java:282)
+	at org.bukkit.craftbukkit.v1_6_R2.CraftServer.enablePlugins(CraftServer.java:264)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.l(MinecraftServer.java:313)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.f(MinecraftServer.java:290)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.a(MinecraftServer.java:250)
+	at net.minecraft.server.v1_6_R2.DedicatedServer.init(DedicatedServer.java:151)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.run(MinecraftServer.java:391)
+	at net.minecraft.server.v1_6_R2.ThreadServerApplication.run(SourceFile:582)
+2013-09-16 18:05:49 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2013-09-16 18:05:49 [INFO] Done (2.189s)! For help, type "help" or "?"
+2013-09-16 18:06:30 [INFO] Starting minecraft server version 1.6.2
+2013-09-16 18:06:30 [INFO] Loading properties
+2013-09-16 18:06:30 [INFO] Default game type: SURVIVAL
+2013-09-16 18:06:30 [INFO] Generating keypair
+2013-09-16 18:06:30 [INFO] Starting Minecraft server on *:25565
+2013-09-16 18:06:30 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.2-R1.0-b2879jnks (MC: 1.6.2) (Implementing API version 1.6.2-R1.0)
+2013-09-16 18:06:31 [INFO] [Minefever] Loading Minefever v1.0.0
+2013-09-16 18:06:31 [INFO] Preparing level "world"
+2013-09-16 18:06:31 [INFO] Preparing start region for level 0 (Seed: -5669663795959418212)
+2013-09-16 18:06:32 [INFO] Preparing start region for level 1 (Seed: -5669663795959418212)
+2013-09-16 18:06:32 [INFO] Preparing start region for level 2 (Seed: -5669663795959418212)
+2013-09-16 18:06:33 [INFO] [Minefever] Enabling Minefever v1.0.0
+2013-09-16 18:06:33 [INFO] [Minefever] Connecting to the database
+2013-09-16 18:06:33 [SEVERE] Error occurred while enabling Minefever v1.0.0 (Is it up to date?)
+javax.persistence.PersistenceException: No Persistence provider for EntityManager named MinefeverJPA
+	at javax.persistence.Persistence.createEntityManagerFactory(Persistence.java:89)
+	at javax.persistence.Persistence.createEntityManagerFactory(Persistence.java:60)
+	at com.minefever.Main.onEnable(Main.java:27)
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:217)
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:457)
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:381)
+	at org.bukkit.craftbukkit.v1_6_R2.CraftServer.loadPlugin(CraftServer.java:282)
+	at org.bukkit.craftbukkit.v1_6_R2.CraftServer.enablePlugins(CraftServer.java:264)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.l(MinecraftServer.java:313)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.f(MinecraftServer.java:290)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.a(MinecraftServer.java:250)
+	at net.minecraft.server.v1_6_R2.DedicatedServer.init(DedicatedServer.java:151)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.run(MinecraftServer.java:391)
+	at net.minecraft.server.v1_6_R2.ThreadServerApplication.run(SourceFile:582)
+2013-09-16 18:06:33 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2013-09-16 18:06:33 [INFO] Done (2.265s)! For help, type "help" or "?"
+2013-09-16 18:34:11 [INFO] Starting minecraft server version 1.6.2
+2013-09-16 18:34:11 [INFO] Loading properties
+2013-09-16 18:34:11 [INFO] Default game type: SURVIVAL
+2013-09-16 18:34:11 [INFO] Generating keypair
+2013-09-16 18:34:11 [INFO] Starting Minecraft server on *:25565
+2013-09-16 18:34:12 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.2-R1.0-b2879jnks (MC: 1.6.2) (Implementing API version 1.6.2-R1.0)
+2013-09-16 18:34:12 [INFO] [Minefever] Loading Minefever v1.0.0
+2013-09-16 18:34:12 [INFO] Preparing level "world"
+2013-09-16 18:34:12 [INFO] Preparing start region for level 0 (Seed: -5669663795959418212)
+2013-09-16 18:34:13 [INFO] Preparing spawn area: 84%
+2013-09-16 18:34:13 [INFO] Preparing start region for level 1 (Seed: -5669663795959418212)
+2013-09-16 18:34:14 [INFO] Preparing start region for level 2 (Seed: -5669663795959418212)
+2013-09-16 18:34:14 [INFO] [Minefever] Enabling Minefever v1.0.0
+2013-09-16 18:34:14 [INFO] [Minefever] Connecting to the database
+2013-09-16 18:34:14 [SEVERE] Error occurred while enabling Minefever v1.0.0 (Is it up to date?)
+java.lang.NoClassDefFoundError: org/hibernate/cfg/Configuration
+	at com.minefever.Main.onEnable(Main.java:30)
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:217)
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:457)
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:381)
+	at org.bukkit.craftbukkit.v1_6_R2.CraftServer.loadPlugin(CraftServer.java:282)
+	at org.bukkit.craftbukkit.v1_6_R2.CraftServer.enablePlugins(CraftServer.java:264)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.l(MinecraftServer.java:313)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.f(MinecraftServer.java:290)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.a(MinecraftServer.java:250)
+	at net.minecraft.server.v1_6_R2.DedicatedServer.init(DedicatedServer.java:151)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.run(MinecraftServer.java:391)
+	at net.minecraft.server.v1_6_R2.ThreadServerApplication.run(SourceFile:582)
+Caused by: java.lang.ClassNotFoundException: org.hibernate.cfg.Configuration
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:366)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:355)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:354)
+	at org.bukkit.plugin.java.PluginClassLoader.findClass0(PluginClassLoader.java:80)
+	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:53)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	... 12 more
+2013-09-16 18:34:14 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2013-09-16 18:34:14 [INFO] Done (2.182s)! For help, type "help" or "?"
+2013-09-16 18:39:38 [INFO] Starting minecraft server version 1.6.2
+2013-09-16 18:39:38 [INFO] Loading properties
+2013-09-16 18:39:38 [INFO] Default game type: SURVIVAL
+2013-09-16 18:39:38 [INFO] Generating keypair
+2013-09-16 18:39:38 [INFO] Starting Minecraft server on *:25565
+2013-09-16 18:39:38 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.2-R1.0-b2879jnks (MC: 1.6.2) (Implementing API version 1.6.2-R1.0)
+2013-09-16 18:39:38 [INFO] [Minefever] Loading Minefever v1.0.0
+2013-09-16 18:39:38 [INFO] Preparing level "world"
+2013-09-16 18:39:39 [INFO] Preparing start region for level 0 (Seed: -5669663795959418212)
+2013-09-16 18:39:40 [INFO] Preparing spawn area: 79%
+2013-09-16 18:39:40 [INFO] Preparing start region for level 1 (Seed: -5669663795959418212)
+2013-09-16 18:39:40 [INFO] Preparing start region for level 2 (Seed: -5669663795959418212)
+2013-09-16 18:39:41 [INFO] [Minefever] Enabling Minefever v1.0.0
+2013-09-16 18:39:41 [INFO] [Minefever] Connecting to the database
+2013-09-16 18:39:41 [SEVERE] Error occurred while enabling Minefever v1.0.0 (Is it up to date?)
+javax.persistence.PersistenceException: No Persistence provider for EntityManager named com.minefever.jpa
+	at javax.persistence.Persistence.createEntityManagerFactory(Persistence.java:89)
+	at javax.persistence.Persistence.createEntityManagerFactory(Persistence.java:60)
+	at com.minefever.Main.onEnable(Main.java:30)
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:217)
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:457)
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:381)
+	at org.bukkit.craftbukkit.v1_6_R2.CraftServer.loadPlugin(CraftServer.java:282)
+	at org.bukkit.craftbukkit.v1_6_R2.CraftServer.enablePlugins(CraftServer.java:264)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.l(MinecraftServer.java:313)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.f(MinecraftServer.java:290)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.a(MinecraftServer.java:250)
+	at net.minecraft.server.v1_6_R2.DedicatedServer.init(DedicatedServer.java:151)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.run(MinecraftServer.java:391)
+	at net.minecraft.server.v1_6_R2.ThreadServerApplication.run(SourceFile:582)
+2013-09-16 18:39:41 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2013-09-16 18:39:41 [INFO] Done (2.236s)! For help, type "help" or "?"
+2013-09-16 18:56:25 [INFO] Starting minecraft server version 1.6.2
+2013-09-16 18:56:25 [INFO] Loading properties
+2013-09-16 18:56:25 [INFO] Default game type: SURVIVAL
+2013-09-16 18:56:25 [INFO] Generating keypair
+2013-09-16 18:56:25 [INFO] Starting Minecraft server on *:25565
+2013-09-16 18:56:26 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.2-R1.0-b2879jnks (MC: 1.6.2) (Implementing API version 1.6.2-R1.0)
+2013-09-16 18:56:26 [INFO] [Minefever] Loading Minefever v1.0.0
+2013-09-16 18:56:26 [INFO] Preparing level "world"
+2013-09-16 18:56:26 [INFO] Preparing start region for level 0 (Seed: -5669663795959418212)
+2013-09-16 18:56:27 [INFO] Preparing start region for level 1 (Seed: -5669663795959418212)
+2013-09-16 18:56:28 [INFO] Preparing start region for level 2 (Seed: -5669663795959418212)
+2013-09-16 18:56:28 [INFO] [Minefever] Enabling Minefever v1.0.0
+2013-09-16 18:56:28 [INFO] [Minefever] Connecting to the database
+2013-09-16 18:56:28 [SEVERE] Error occurred while enabling Minefever v1.0.0 (Is it up to date?)
+javax.persistence.PersistenceException: No Persistence provider for EntityManager named com.minefever.jpa
+	at javax.persistence.Persistence.createEntityManagerFactory(Persistence.java:89)
+	at javax.persistence.Persistence.createEntityManagerFactory(Persistence.java:60)
+	at com.minefever.Main.onEnable(Main.java:30)
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:217)
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:457)
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:381)
+	at org.bukkit.craftbukkit.v1_6_R2.CraftServer.loadPlugin(CraftServer.java:282)
+	at org.bukkit.craftbukkit.v1_6_R2.CraftServer.enablePlugins(CraftServer.java:264)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.l(MinecraftServer.java:313)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.f(MinecraftServer.java:290)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.a(MinecraftServer.java:250)
+	at net.minecraft.server.v1_6_R2.DedicatedServer.init(DedicatedServer.java:151)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.run(MinecraftServer.java:391)
+	at net.minecraft.server.v1_6_R2.ThreadServerApplication.run(SourceFile:582)
+2013-09-16 18:56:28 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2013-09-16 18:56:28 [INFO] Done (2.009s)! For help, type "help" or "?"
+2013-09-16 19:05:03 [INFO] Starting minecraft server version 1.6.2
+2013-09-16 19:05:03 [INFO] Loading properties
+2013-09-16 19:05:03 [INFO] Default game type: SURVIVAL
+2013-09-16 19:05:03 [INFO] Generating keypair
+2013-09-16 19:05:03 [INFO] Starting Minecraft server on *:25565
+2013-09-16 19:05:03 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.2-R1.0-b2879jnks (MC: 1.6.2) (Implementing API version 1.6.2-R1.0)
+2013-09-16 19:05:04 [INFO] [Minefever] Loading Minefever v1.0.0
+2013-09-16 19:05:04 [INFO] Preparing level "world"
+2013-09-16 19:05:04 [INFO] Preparing start region for level 0 (Seed: -5669663795959418212)
+2013-09-16 19:05:05 [INFO] Preparing start region for level 1 (Seed: -5669663795959418212)
+2013-09-16 19:05:05 [INFO] Preparing start region for level 2 (Seed: -5669663795959418212)
+2013-09-16 19:05:05 [INFO] [Minefever] Enabling Minefever v1.0.0
+2013-09-16 19:05:05 [INFO] [Minefever] Connecting to the database
+2013-09-16 19:05:05 [SEVERE] Error occurred while enabling Minefever v1.0.0 (Is it up to date?)
+javax.persistence.PersistenceException: No Persistence provider for EntityManager named com.minefever.jpa
+	at javax.persistence.Persistence.createEntityManagerFactory(Persistence.java:89)
+	at javax.persistence.Persistence.createEntityManagerFactory(Persistence.java:60)
+	at com.minefever.Main.onEnable(Main.java:30)
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:217)
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:457)
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:381)
+	at org.bukkit.craftbukkit.v1_6_R2.CraftServer.loadPlugin(CraftServer.java:282)
+	at org.bukkit.craftbukkit.v1_6_R2.CraftServer.enablePlugins(CraftServer.java:264)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.l(MinecraftServer.java:313)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.f(MinecraftServer.java:290)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.a(MinecraftServer.java:250)
+	at net.minecraft.server.v1_6_R2.DedicatedServer.init(DedicatedServer.java:151)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.run(MinecraftServer.java:391)
+	at net.minecraft.server.v1_6_R2.ThreadServerApplication.run(SourceFile:582)
+2013-09-16 19:05:05 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2013-09-16 19:05:06 [INFO] Done (1.946s)! For help, type "help" or "?"
+2013-09-16 19:15:42 [INFO] Starting minecraft server version 1.6.2
+2013-09-16 19:15:42 [INFO] Loading properties
+2013-09-16 19:15:42 [INFO] Default game type: SURVIVAL
+2013-09-16 19:15:42 [INFO] Generating keypair
+2013-09-16 19:15:43 [INFO] Starting Minecraft server on *:25565
+2013-09-16 19:15:43 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.2-R1.0-b2879jnks (MC: 1.6.2) (Implementing API version 1.6.2-R1.0)
+2013-09-16 19:15:43 [INFO] [Minefever] Loading Minefever v1.0.0
+2013-09-16 19:15:43 [INFO] Preparing level "world"
+2013-09-16 19:15:43 [INFO] Preparing start region for level 0 (Seed: -5669663795959418212)
+2013-09-16 19:15:44 [INFO] Preparing start region for level 1 (Seed: -5669663795959418212)
+2013-09-16 19:15:45 [INFO] Preparing start region for level 2 (Seed: -5669663795959418212)
+2013-09-16 19:15:45 [INFO] [Minefever] Enabling Minefever v1.0.0
+2013-09-16 19:15:45 [INFO] [Minefever] Connecting to the database
+2013-09-16 19:15:45 [SEVERE] Error occurred while enabling Minefever v1.0.0 (Is it up to date?)
+javax.persistence.PersistenceException: No Persistence provider for EntityManager named com.minefever.jpa
+	at javax.persistence.Persistence.createEntityManagerFactory(Persistence.java:89)
+	at javax.persistence.Persistence.createEntityManagerFactory(Persistence.java:60)
+	at com.minefever.Main.onEnable(Main.java:30)
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:217)
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:457)
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:381)
+	at org.bukkit.craftbukkit.v1_6_R2.CraftServer.loadPlugin(CraftServer.java:282)
+	at org.bukkit.craftbukkit.v1_6_R2.CraftServer.enablePlugins(CraftServer.java:264)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.l(MinecraftServer.java:313)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.f(MinecraftServer.java:290)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.a(MinecraftServer.java:250)
+	at net.minecraft.server.v1_6_R2.DedicatedServer.init(DedicatedServer.java:151)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.run(MinecraftServer.java:391)
+	at net.minecraft.server.v1_6_R2.ThreadServerApplication.run(SourceFile:582)
+2013-09-16 19:15:45 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2013-09-16 19:15:45 [INFO] Done (1.969s)! For help, type "help" or "?"
+2013-09-16 19:16:23 [INFO] Starting minecraft server version 1.6.2
+2013-09-16 19:16:23 [INFO] Loading properties
+2013-09-16 19:16:23 [INFO] Default game type: SURVIVAL
+2013-09-16 19:16:23 [INFO] Generating keypair
+2013-09-16 19:16:23 [INFO] Starting Minecraft server on *:25565
+2013-09-16 19:16:23 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.2-R1.0-b2879jnks (MC: 1.6.2) (Implementing API version 1.6.2-R1.0)
+2013-09-16 19:16:24 [INFO] [Minefever] Loading Minefever v1.0.0
+2013-09-16 19:16:24 [INFO] Preparing level "world"
+2013-09-16 19:16:24 [INFO] Preparing start region for level 0 (Seed: -5669663795959418212)
+2013-09-16 19:16:25 [INFO] Preparing start region for level 1 (Seed: -5669663795959418212)
+2013-09-16 19:16:25 [INFO] Preparing start region for level 2 (Seed: -5669663795959418212)
+2013-09-16 19:16:26 [INFO] [Minefever] Enabling Minefever v1.0.0
+2013-09-16 19:16:26 [INFO] [Minefever] Connecting to the database
+2013-09-16 19:16:26 [INFO] [Minefever] Connected to the database.
+2013-09-16 19:16:26 [INFO] [Minefever] Registering Handlers.
+2013-09-16 19:16:26 [INFO] [Minefever] Registered Handlers.
+2013-09-16 19:16:26 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2013-09-16 19:16:26 [INFO] Done (2.097s)! For help, type "help" or "?"
