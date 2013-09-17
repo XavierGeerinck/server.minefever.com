@@ -26,12 +26,11 @@ public final class Main extends JavaPlugin {
     }
 
     private void connectToDatabase() {
-        mysql = new MysqlHandler();
-        mysql.connect("localhost", 3306, "minefever", "root", "");
+        mysql = new MysqlHandler("localhost", 3306, "minefever", "root", "");
     }
 
     private void registerHandlers() {
-        getServer().getPluginManager().registerEvents(new OnUserLogin(), this);
+        getServer().getPluginManager().registerEvents(new OnUserLogin(mysql.getConnect()), this);
     }
 
     @Override

@@ -16,16 +16,25 @@ public class MysqlHandler {
     private PreparedStatement preparedStatement = null;
     private ResultSet resultSet = null;
 
-    public boolean connect(String host, int port, String database, String username, String password) {
+    public MysqlHandler(String host, int port, String database, String username, String password) {
         try {
             Class.forName("com.mysql.jdbc.Driver");
 
             connect = DriverManager.getConnection(String.format("jdbc:mysql://%s:%d/%s?user=%s&password=&s", host, port, database, username, password));
         } catch (Exception e) {
             System.out.println(e);
-            return false;
+        }
+    }
+
+    public Connection getConnect() {
+        if (connect != null) {
+            return connect;
         }
 
-        return true;
+        return null;
+    }
+
+    public void setConnect(Connection connect) {
+        this.connect = connect;
     }
 }
